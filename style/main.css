@@ -1,0 +1,66 @@
+header {
+    background-color: whitesmoke;
+}
+footer {
+    background-color: azure;
+}
+img {
+    width: 75px;
+    height: 75px;
+}
+.tableheaderdimensions {
+    width: 150px;
+    height: 100px;
+}
+.tablecelldimensions {
+    width: 150px;
+    height: 200px;
+}
+#tablecell1 {
+    background-color: mistyrose;
+}
+#tablecell2 {
+    background-color: lavenderblush;
+}
+#tablecell3 {
+    background-color: aliceblue;
+}
+#tablecell4 {
+    background-color: honeydew;
+}
+#tablecell5 {
+    background-color: rgb(139,0,0);
+}
+#tablecell6 {
+    background-color: rgb(205,92,92);
+}
+#tablecell7 {
+    background-color: rgb(250,128,114);
+}
+#tablecell8 {
+    background-color: rgb(255,127,80);
+}
+#tablecell9 {
+    background-color: rgb(12%,20%,40%);
+}
+#tablecell10 {
+    background-color: rgb(67%,45%,33%);
+}
+#tablecell11 {
+    background-color: rgb(80%,63%,41%);
+}
+#tablecell12 {
+    background-color: rgb(89%,10%,70%);
+}
+#tablecell13 {
+    background-color: #00bfff;
+}
+#tablecell14 {
+    background-color: #87ceeb;
+}
+#tablecell15 {
+    background-color: #87cefa;
+}
+#tablecell16 {
+    background-color: #b0e0e6;
+}
